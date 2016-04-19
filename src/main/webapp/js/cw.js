@@ -13,3 +13,6 @@ function countDown() {
 	t = t - 1;
 	setTimeout("countDown()", 1000);
 }
+function closeWindow() {
+	var win = window.open("about:blank", "_self"); win.close();
+}
