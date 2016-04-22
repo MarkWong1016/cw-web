@@ -13,7 +13,7 @@ h1 {
 </head>
 <body>
 	<h1>${ticketResult.ticket.customer.name} <br> 加菲貓活動 <br> 報到成功 <br></h1>
-	<a href="javascript:closeWindow();">不再顯示訊息</a>
+	<font size="+3"><a href="javascript:closeWindow();">不再顯示訊息</a></font> 
 	<!-- <font size="+3">系統將在<span id="secSpan">3</span>秒後自動關閉</font>
     <script type="text/javascript">
 		countDown();

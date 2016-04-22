@@ -16,6 +16,6 @@ function countDown() {
 function closeWindow() {
 	var win = window.open("about:blank", "_self"); win.close();
 }
-function alertTest() {
-	alert('alll');
+function cancelTicket() {
+	alert('cacel Ticket');
 }

@@ -14,7 +14,7 @@ h1 {
 </head>
 <body>
 	<h1>加菲貓活動 <br> 報到失敗<br></h1>
-	<a href="javascript:closeWindow();">不再顯示訊息</a>
+	<font size="+3"><a href="javascript:closeWindow();">不再顯示訊息</a></font>
 	<!-- 
 	<font size="+3">系統將在<span id="secSpan">3</span>秒後自動關閉<br></font>
     <script type="text/javascript">
